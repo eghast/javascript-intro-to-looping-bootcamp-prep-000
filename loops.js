@@ -13,7 +13,7 @@ function forLoop(array){
    return array;
 }
 
-
+let n = 
 function whileLoop(n){
   while (n > 5){
      console.log(--n);
