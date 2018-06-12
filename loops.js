@@ -37,6 +37,7 @@ function doWhileLoop(array){
     if(array.slice(0)){
       
     }
+    return array;
   }
   while(array.length > 0 && maybeTrue());
 }
