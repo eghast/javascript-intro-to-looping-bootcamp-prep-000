@@ -28,6 +28,6 @@ function whileLoop(n){
   }
 }
 
-function doWhileLoop(){
+function doWhileLoop(array){
   
 }
